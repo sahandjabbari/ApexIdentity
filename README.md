@@ -77,4 +77,6 @@ The system automatically loads all pages, menus, buttons, and regions of the app
 ## License
 
 This project is licensed under the **MIT License** – you are free to use, modify, and distribute it with proper attribution.
- 
+
+  ## Contact
+For questions, support, or feedback, please reach out via email: s.jabbari77[@]gmail[.]com
