@@ -65,6 +65,15 @@ The following tables are included in **Apex Identity**:
 * **T\_BRANCHES** – Stores branch/organizational unit information, used for multi-branch access control.
 
 ---
+Application Overview
+
+You can manage user roles directly within the application:
+
+Create new roles or edit existing ones in the User Roles page.
+
+By clicking on a role name, you can assign the required permissions.
+
+The system automatically loads all pages, menus, buttons, and regions of the application, allowing you to easily grant the necessary access to each role.
 
 ## License
 
