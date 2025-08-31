@@ -74,6 +74,10 @@ By clicking on a role name, you can assign the required permissions.
 
 The system automatically loads all pages, menus, buttons, and regions of the application, allowing you to easily grant the necessary access to each role.
 
+## Authorization for Items
+
+Any item that should follow the rules of this authorization must have its Authorization property set to Dynamic Authorization.
+
 ## License
 
 This project is licensed under the **MIT License** – you are free to use, modify, and distribute it with proper attribution.
